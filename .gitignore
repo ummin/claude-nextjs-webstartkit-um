@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE / 에디터
+/.vscode
+/.idea
+
+# Claude Code 로컬 설정
+/.claude
+/.mcp.json
+
