@@ -203,7 +203,6 @@ export default function ComponentsPage() {
           <AvatarFallback>CN</AvatarFallback>
         </Avatar>
         <Avatar>
-          <AvatarImage src="/missing.png" alt="missing" />
           <AvatarFallback>YH</AvatarFallback>
         </Avatar>
       </Section>
