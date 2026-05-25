@@ -17,7 +17,7 @@ export default function GlobalError({ error, reset }: ErrorProps) {
       <p className="text-sm text-muted-foreground">{error.message || "알 수 없는 오류"}</p>
       <Button onClick={reset}>
         <RefreshCw />
-        다시 시도
+        다시 시도 해주세요.
       </Button>
     </div>
   )
