@@ -45,7 +45,6 @@ next-env.d.ts
 /.idea
 
 # Claude Code 로컬 설정
-/.claude
 /.mcp.json
 
 # Playwright MCP 산출물
